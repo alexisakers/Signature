@@ -3,6 +3,7 @@
 ![Swift 3.0](https://img.shields.io/badge/Swift-3.0-ee4f37.svg)
 ![Licence](https://img.shields.io/badge/Licence-MIT-000000.svg)
 [![Build Status](https://travis-ci.org/alexaubry/Signature.svg?branch=master)](https://travis-ci.org/alexaubry/Signature)
+[![Twitter : @leksantoine](https://img.shields.io/badge/Twitter-%40leksantoine-6C7A89.svg)](https://twitter.com/leksantoine)
 
 `Signature` is a Swift library that allows you to sign and verify messages.
 
