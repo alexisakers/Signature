@@ -1,0 +1,3 @@
+import SignatureTests
+
+TestsManager.run()
