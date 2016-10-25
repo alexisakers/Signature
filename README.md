@@ -121,7 +121,7 @@ let key1 = try HMACKey(password: "secret")
 let key2 = try HMACKey(passwordBytes: [0xaa, 0xbb, 0xcc, 0xdd, 0xee, 0xff])
 ~~~
 
-The `HMACKey(password:)` initializer accepts any object conforming to the `BytesConvertible` protocol. See [Using Signature With BytesKit](#bytes-interpol) for more informations.
+The `HMACKey(password:)` initializer accepts any object conforming to the `BytesConvertible` protocol.
 
 ### Public/Private Key
 
